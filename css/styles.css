@@ -362,8 +362,9 @@ body {
 
 .customers-item {
   /* width: calc((100% - 120px) / 6); */
-  flex-basis: calc((100% - 120px) / 6);
-  height: 90px;
+  /* flex-basis: calc((100% - 120px) / 6); */
+  width: 168px;
+  height: 88px;
 }
 
 .customers-link {
