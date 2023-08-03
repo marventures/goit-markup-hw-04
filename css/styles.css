@@ -299,6 +299,7 @@ body {
   align-items: center;
   justify-content: center;
   background-color: var(--iris-color);
+  color: var(--cloud-color);
 }
 
 .team-social-link:hover,
@@ -307,7 +308,7 @@ body {
 }
 
 .team-social-svg {
-  fill: var(--cloud-color);
+  fill: currentColor;
 }
 
 .team-container {
